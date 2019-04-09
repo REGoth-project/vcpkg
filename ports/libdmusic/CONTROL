@@ -1,0 +1,8 @@
+Source: libdmusic
+Version: 0.1.6
+Description: Free DirectMusic file formats loading utilities
+Build-Depends: sf2cute
+
+Feature: tools
+Description: Installs tools for manipulating DirectMusic files
+Build-Depends: args
